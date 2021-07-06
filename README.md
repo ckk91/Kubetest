@@ -3,3 +3,7 @@ Playing around with [Minikube](https://linkhttps://minikube.sigs.k8s.io/docs/sta
 
 ## Contains
 TBD
+
+## TODO
+- [ ] Add Grafana
+- [ ] Add Elasticsearch
